@@ -1,4 +1,4 @@
-# Dr WiFi - WiFi Password Cracker Tool
+# Dr WiFi - WiFi Password Cracker Tool Only For Rooted Android Phones
 
 A powerful WiFi network scanner and password cracker tool designed specifically for Termux Android environment.
 
@@ -117,3 +117,4 @@ For educational and ethical hacking purposes only.
 
 
 **Remember: Always use this tool responsibly and legally!** 
+
