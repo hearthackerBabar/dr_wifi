@@ -24,7 +24,7 @@ Download and install Termux from [F-Droid](https://f-droid.org/en/packages/com.t
 
 ### Step 2: Clone Repository
 ```bash
-git clone https://github.com/YOUR_USERNAME/dr-wifi.git
+git clone https://github.com/hearthackerBabar/dr-wifi.git
 cd dr-wifi
 ```
 
@@ -114,5 +114,6 @@ Created by Dr WiFi Team
 For educational and ethical hacking purposes only.
 
 ---
+
 
 **Remember: Always use this tool responsibly and legally!** 
