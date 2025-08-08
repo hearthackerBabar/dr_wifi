@@ -89,7 +89,7 @@ python dr_wifi.py
 ### If git clone fails:
 ```bash
 pkg install git
-git clone https://github.com/YOUR_USERNAME/dr-wifi.git
+git clone https://github.com/hearthackerBabar/dr-wifi.git
 ```
 
 ### If python not found:
@@ -163,5 +163,6 @@ python dr_wifi.py
 ```
 
 ---
+
 
 **🎉 That's it! Your Dr WiFi tool is ready to use!** 
